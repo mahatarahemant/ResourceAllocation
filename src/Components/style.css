@@ -1,0 +1,21 @@
+.left {
+    background-color: aqua;
+    width: 20vw;
+    height: 79vh;
+}
+
+.right {
+    background-color: rgb(231, 217, 19);
+    width: 80vw;
+    height: 79vh;
+}
+
+.order {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: brown;
+    width: 19vw;
+    height: 10vh;
+    margin: 10px 5px;
+}
